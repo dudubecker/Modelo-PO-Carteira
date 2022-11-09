@@ -1,2 +1,2 @@
-# modelo_po_carteira
-Notebook com implementação do modelo de PO que utilizo para compras e vendas periódicas de ações
+# Modelo PO - Carteira de Investimentos
+Notebook com implementação do modelo de PO que utilizo para compras e vendas periódicas de ações. Em função do capital investido ser relativamente pequeno em relação ao preço unitário das ações, torna-se difícil obedecer as porcentagens pré-definidas das ações em carteira. Assim sendo, o modelo tem a utilidade de minimizar os desvios percentuais das ações em carteira e determinar a quantidade de ações a serem compradas para atender as porcentagens reais calculadas.
